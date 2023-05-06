@@ -1,0 +1,9 @@
+D:\NOS\NOS\Constracts\bin\Release\Constracts.dll
+D:\NOS\NOS\Constracts\bin\Release\Constracts.pdb
+D:\NOS\NOS\Constracts\bin\Release\Newtonsoft.Json.dll
+D:\NOS\NOS\Constracts\bin\Release\Newtonsoft.Json.xml
+D:\NOS\NOS\Constracts\obj\Release\Constracts.csproj.AssemblyReference.cache
+D:\NOS\NOS\Constracts\obj\Release\Constracts.csproj.CoreCompileInputs.cache
+D:\NOS\NOS\Constracts\obj\Release\Constracts.csproj.CopyComplete
+D:\NOS\NOS\Constracts\obj\Release\Constracts.dll
+D:\NOS\NOS\Constracts\obj\Release\Constracts.pdb

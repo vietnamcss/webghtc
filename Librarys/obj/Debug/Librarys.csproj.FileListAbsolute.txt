@@ -1,0 +1,11 @@
+D:\NOS\NOS\Librarys\obj\Debug\Librarys.csproj.AssemblyReference.cache
+D:\NOS\NOS\Librarys\obj\Debug\Librarys.csproj.CoreCompileInputs.cache
+D:\NOS\NOS\Librarys\bin\Debug\Librarys.dll
+D:\NOS\NOS\Librarys\bin\Debug\Librarys.pdb
+D:\NOS\NOS\Librarys\bin\Debug\Newtonsoft.Json.dll
+D:\NOS\NOS\Librarys\bin\Debug\Newtonsoft.Json.xml
+D:\NOS\NOS\Librarys\obj\Debug\Librarys.csproj.CopyComplete
+D:\NOS\NOS\Librarys\obj\Debug\Librarys.dll
+D:\NOS\NOS\Librarys\obj\Debug\Librarys.pdb
+D:\NOS\NOS\Librarys\bin\Debug\BouncyCastle.Crypto.dll
+D:\NOS\NOS\Librarys\bin\Debug\jose-jwt.dll

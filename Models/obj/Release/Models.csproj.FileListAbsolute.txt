@@ -1,0 +1,15 @@
+D:\NOS\NOS\Models\bin\Release\Models.dll
+D:\NOS\NOS\Models\bin\Release\Models.pdb
+D:\NOS\NOS\Models\bin\Release\Constracts.dll
+D:\NOS\NOS\Models\bin\Release\Librarys.dll
+D:\NOS\NOS\Models\bin\Release\Newtonsoft.Json.dll
+D:\NOS\NOS\Models\bin\Release\BouncyCastle.Crypto.dll
+D:\NOS\NOS\Models\bin\Release\jose-jwt.dll
+D:\NOS\NOS\Models\bin\Release\Constracts.pdb
+D:\NOS\NOS\Models\bin\Release\Librarys.pdb
+D:\NOS\NOS\Models\bin\Release\Newtonsoft.Json.xml
+D:\NOS\NOS\Models\obj\Release\Models.csproj.AssemblyReference.cache
+D:\NOS\NOS\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+D:\NOS\NOS\Models\obj\Release\Models.csproj.CopyComplete
+D:\NOS\NOS\Models\obj\Release\Models.dll
+D:\NOS\NOS\Models\obj\Release\Models.pdb
