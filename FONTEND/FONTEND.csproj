@@ -72,7 +72,9 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Themes\About.html" />
+    <Content Include="Themes\Service.html" />
+    <Content Include="Themes\About_us.html" />
+    <Content Include="Themes\Feedback.html" />
     <Content Include="Themes\df945c6.html" />
     <Content Include="Themes\footer.html" />
     <Content Include="Themes\index.htm" />
@@ -438,6 +440,7 @@
     <Content Include="Themes\wp-content\uploads\2021\06\container-ship-arriving-840x560-1.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\container-ship-arriving-840x560.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\container-ship-arriving.jpg" />
+    <Content Include="Themes\wp-content\uploads\2021\06\delivery_man.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\driver-holding-clipboard-1.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\driver-holding-clipboard.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\ellips-1.png" />
@@ -622,6 +625,7 @@
     <Content Include="Themes\wp-content\uploads\2021\06\marry_helton-700x790-1.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\marry_helton-700x790.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\marry_helton.jpg" />
+    <Content Include="Themes\wp-content\uploads\2021\06\motorbike_service.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\nick_davis-1.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\nick_davis-1000x1000-1.jpg" />
     <Content Include="Themes\wp-content\uploads\2021\06\nick_davis-1000x1000.jpg" />
